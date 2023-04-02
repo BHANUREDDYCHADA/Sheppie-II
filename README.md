@@ -1,7 +1,7 @@
 # SHEPPIE
 React application for ride booking and assisting international students.
 
-Hosted live on Heroku at https://sheppie.herokuapp.com/
+Hosted live on Fly at https://sheppie.fly.dev/
 
 Currently building version 2.0 after gathering user feedback and pain points.
 
